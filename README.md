@@ -22,7 +22,7 @@
 <img width="2499" height="1068" alt="image" src="https://github.com/user-attachments/assets/8b222987-7391-472a-8436-aae195c5212c" />
 
 ### 2. 周报生成效果
-
+<img width="756" height="709" alt="image" src="https://github.com/user-attachments/assets/a429ffd5-d208-47f7-800b-ccd16657e195" />
 
 ## 🚀 快速搭建教程
 ### 1. 注册扣子平台
